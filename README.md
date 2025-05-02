@@ -1,31 +1,38 @@
-<HTML>
-<HEAD>
-  <TITLE>Mi segunda p&aacute;gina</TITLE>
-</HEAD>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>KIDNEY PROTECTION</title>
+</head>
+<body>
+  <div style="text-align: center;">
+    <h1>KIDNEY PROTECTION</h1>
+    <h1>Hemodiálisis a domicilio</h1>
+  </div>
 
-<BODY>
-<DIV ALIGN=CENTER><H1>Mi segunda p&aacute;gina</H1></DIV>
+  <h2>Misión</h2>
+  <hr>
+  <p>Dar el mejor servicio de hemodiálisis a los enfermos renales que lo soliciten, dando un trato humanizado a cada persona de forma responsable y acorde a sus necesidades.</p>
 
-<H2>La primera versi&oacute;n de esta p&aacute;gina</H2>
-<HR>
-<P>Esta es mi primera p&aacute;gina (chispas). Por el momento no s&eacute; que
-tendr&aacute;, pero dentro de poco pondr&eacute; aqu&iacute; muchas cosas
-interesantes.
+  <h2>Visión</h2>
+  <hr>
+  <p>Ser la mejor opción de tratamiento renal para quienes lo requieran, siendo una empresa vanguardista y con constantes actualizaciones tecnológicas para ofrecer tratamientos de calidad.</p>
 
-<BR><BR><H2>La primera versi&oacute;n de esta p&aacute;gina, ahora actualizada</H2>
-<HR>
-<DIV ALIGN=CENTER>Esta es mi <STRONG>primera</STRONG> p&aacute;gina (<I>chispas</I>). Por el
-momento no s&eacute; que tendr&aacute;, pero <S>dentro de poco</S> pondr&eacute;
-<EM>aqu&iacute;</EM> muchas cosas <B>interesantes</B>.</DIV>
+  <h2>Objetivos</h2>
+  <ol>
+    <li>Ofrecer servicios de calidad a las personas que lo soliciten.</li>
+    <li>Ser la mejor opción para pacientes renales.</li>
+    <li>Educar y promover el autocuidado con dietas, ejercicio y chequeos médicos.</li>
+  </ol>
 
-<BR><BR><H2>Y esta es la segunda versión</H2>
-<P>Ya tenemos aqu&iacute; las cosas interesantes. Tenemos a mi novia
-<BIG>Loli</BIG> diciendo que <BLOCKQUOTE>Como me pongas en tu p&aacute;gina te atizo.</BLOCKQUOTE>
-Tambi&eacute;n podemos a ver a mi querido perro <I>fufu</I> diciendo <CITE>guau, guau</CITE> y,
-sobre todo, el c&oacute;digo fuente de este ejemplo:
-<PRE>
-<!-- Aquí estaría el código fuente que no voy a poner
-   porque entraríamos en un circulo vicioso.-->
-</PRE>
-</BODY>
-</HTML>
+  <div style="text-align: center;">
+    <h1>Contáctanos al <del>+502 0000-0000</del></h1>
+    <h1>O por WhatsApp al <del>+502 1111-1111</del></h1>
+  </div>
+  <hr>
+  <!-- Si gustas puedes dejarnos algún comentario, estaremos felices de atenderte. -->
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Hemodialysismachine.jpg" width="350" height="500" alt="Máquina de hemodiálisis">
+  </div>
+</body>
+</html>
